@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-### Neste projeto foi utilizado a linguagem Python, onde foi criado uma Classe com as informações do Personagem.Utilizando metodos, foi craido o metedo ataque, utilizando um if para validar o tipo do Personagem e caso verdadeiro entra em um case para mostrar o tipo de ataque de acordo com o tipo de persoagem, caso seja falso temmos o retorno do else solicitando que seja digitado o tipo correto.
+### Neste projeto foi utilizado a linguagem Python, onde foi criado uma Classe com as informações do Personagem. Utilizando metodos, foi criado o metodo ataque, utilizando um if para validar o tipo do Personagem e caso verdadeiro entra em um case para mostrar o tipo de ataque de acordo com o tipo de personagem, caso seja falso temos o retorno do else solicitando que seja digitado o tipo correto.
 
 **O Que deve ser utilizado**
 
